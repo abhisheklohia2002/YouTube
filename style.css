@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Roboto+Flex:opsz,wght@8..144,300&display=swap');
+
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,300&display=swap');
+ */
+#img ,#logo{
+    height: 38px;
+ 
+
+}
+#body{
+    background-color: #bfc0de;
+}
+#img:hover,#logo:hover{
+    cursor: pointer;
+}
+#main_img{
+    float: left;
+    /* margin-top: 2vw; */
+    padding-left: 10px;
+   
+
+}
+.home{
+    height: 2rem;
+    margin-right: 3rem;
+   
+
+}
+#home{
+    height: 2rem;  
+    margin-right: 0%;
+}
+#span{
+    padding-left: 2rem;
+    
+}
+
+nav{
+    position: fixed;
+    background-color: #a5a9f0;
+    
+}
+#logo{
+    height: 30px;
+    margin-bottom: 5px;
+   
+
+}
+#search {
+    height: 3.1vw;
+    background-color: rgb(190, 190, 223);
+    width: 40vw;
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 20px;
+    position: sticky;
+    margin-left: 10rem;
+  
+}
+#nav_div {
+    /* background-color: rgb(192, 175, 175); */
+
+    /* background-color: rgb(104, 114, 114); */
+    height: 2vw;
+    width: 100%;
+    text-align: center;
+    margin-top: -2vw;
+    padding-top: 27px;
+    padding-right: 60px;
+    padding-bottom: 5vw; /* position: fixed; */
+  margin-bottom: 5vw;
+  /* opacity: 1; */
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+
+
+}
+#bar {
+    position: relative;
+    height: 36px;
+    right: 3vw;
+    top: 1vw;
+
+
+}
+nav{
+   
+    height: 5vw;
+    text-align: center;
+    width: 100%;
+  
+    padding-right: 60px;
+    position: fixed;
+    margin-bottom: 2vw;
+}
+section{
+   padding-top: 10vw;
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    row-gap: 2vw;
+    column-gap: 18vw;
+    margin-left: 1vw;
+    overflow-y: scroll;
+   
+}
+#div {
+   
+    padding-top: 1vw;
+    height: 23vw;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 350px;
+    padding-left: 1vw;
+    border: 2px solid rgb(159, 149, 149);
+}
+#h3{
+font-size: 16px;
+font-family: 'Roboto Flex', sans-serif;
+margin-top: 10px;
+margin-bottom: 10px;
+
+
+}
+iframe{
+    width: 21vw;
+    height: 15vw;
+    
+}
+iframe:hover{
+    cursor: pointer;
+}
+
+
+#div:hover{
+    cursor: pointer;
+}
+
+#trend{
+    padding-left: 2vw;
+    font-size: 25px;
+font-family: 'Roboto Flex', sans-serif;
+margin-bottom: 1vw;
+margin-top: 1vw;
+}
+#trend:hover{
+    cursor: pointer;
+}
+#name{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.trend{
+    padding-left: 80vw;
+    font-size: 28px;
+font-family: 'Roboto Flex', sans-serif;
+margin-bottom: 1vw;
+margin-top: 1vw;
+color: rgb(43, 39, 39);
+font-weight: bolder;
+/* background-color: rgb(226, 210, 240); */
+background-color: #a5a9f0;
+
+}
+.trend:hover{
+    cursor: pointer;
+}
+
+body{
+    background-color: rgb(192, 175, 175);
+  
+    padding-left: 0vw;
+}
+
+
+.home:hover{
+    cursor: pointer;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+snippet:
+channelId: "UCqwUrj10mAEsqezcItqvwEw"
+channelTitle: "BB Ki Vines"
+description: "BB Ki Vines is a channel that chronicles the everyday happenings in the lives of BB and his family members. Bhuvan Bam is an ..."
+liveBroadcastContent: "upcoming"
+publishTime: "2015-06-20T08:40:00Z"
+publishedAt: "2015-06-20T08:40:00Z" */
